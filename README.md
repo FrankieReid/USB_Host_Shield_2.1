@@ -2,14 +2,14 @@
 
 The code is released under the GNU General Public License.
 __________
-[![](https://github.com/felis/USB_Host_Shield_2.0/workflows/CI/badge.svg)](https://github.com/felis/USB_Host_Shield_2.0/actions?query=branch%3Amaster)
 
 # Summary
-This is Revision 2.0 of MAX3421E-based USB Host Shield Library for AVR's.
+This is a library-under-edit, meant for the native USB port on the Arduino Due (or similar board). It's largely based on USB Host Library Rev. 2.0 (Revision 2.0 of MAX3421E-based USB Host Shield Library for AVR's- main project site at: <http://blog.tkjelectronics.dk/> )
 
-Project main web site is: <https://chome.nerpa.tech/arduino_usb_host_shield_projects/>.
 
-Some information can also be found at: <http://blog.tkjelectronics.dk/>.
+__Everything past this point is old ReadMe, from the USB Host Library Rev. 2.0__ 
+
+
 
 The shield can be purchased from [TKJ Electronics](http://tkjelectronics.com/): <http://shop.tkjelectronics.dk/product_info.php?products_id=43>.
 
